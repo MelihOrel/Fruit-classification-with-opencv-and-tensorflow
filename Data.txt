@@ -1,0 +1,8 @@
+DATA = kaggle datasets download -d moltean/fruits
+
+1 - You should create class folders and name them with numbers (like: 0 for apple folder, 1 for banana folder),
+2 - Download the dataset from the link and copy to your folders,
+3 - You dont need to create train or test folders.
+
+
+video link = https://www.youtube.com/watch?v=VxcrHLyoOg4
